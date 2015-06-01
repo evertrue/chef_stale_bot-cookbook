@@ -4,7 +4,7 @@ maintainer_email 'you@example.com'
 license          'all_rights'
 description      'Installs/Configures chef_stale_bot'
 long_description 'Installs/Configures chef_stale_bot'
-version          '0.0.1'
+version          '0.0.2'
 
 supports 'ubuntu', '>= 12.04'
 
