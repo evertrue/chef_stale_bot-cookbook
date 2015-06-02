@@ -6,22 +6,13 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ### Changed
 - Improve argument against commit logs.
 
-## [0.0.2] - YYY-MM-DD
-### Added
-- Explanation of the recommended reverse chronological release ordering.
+## [1.0.0] - 2015-06-02
 
 ### Changed
-- Refer to a "change log" instead of a "CHANGELOG" throughout the site
-to differentiate between the file and the purpose of the file — the
-logging of changes.
+- The default stale time to 90 minutes
+- Default for KNIFE_NODE_NAME env var
 
-### Removed
-- Remove empty sections from CHANGELOG, they occupy too much space and
-create too much noise in the file. People will have to assume that the
-missing sections were intentionally left out because they contained no
-notable changes.
-
-## 0.0.1 - YYYY-MM-DD
+## 0.0.1 - 2015-04-15
 ### Added
 - This CHANGELOG file to hopefully serve as an evolving example of a standardized open source project CHANGELOG.
 - CNAME file to enable GitHub Pages custom domain
@@ -29,5 +20,5 @@ notable changes.
 - Good examples and basic guidelines, including proper date formatting.
 - Counter-examples: "What makes unicorns cry?"
 
-[unreleased]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.8...HEAD
-[0.0.2]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.1...v0.0.2
+[unreleased]: https://github.com/olivierlacan/keep-a-changelog/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.1...v1.0.0
